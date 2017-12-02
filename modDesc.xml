@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="38">
+  <author>Slivicon</author>
+  <version>1.0.0.0</version>
+  <title>
+    <de>Holzerntemaschine längerer Holzschnitt</de>
+    <en>Longer Log Cuts</en>
+    <fr>Coupes de bois plus longues</fr>
+  </title>
+  <description>
+    <de><![CDATA[
+
+Dies erhöht die maximale Schnittlänge einer Holzerntemaschine von 8 m auf 15 m.
+
+Änderungsprotokoll:
+  v1.0.0.0 2017-12-02
+    - Erstveröffentlichung
+        
+ ]]></de>
+    <en><![CDATA[
+
+This increases the maximum length of wood harvester cuts from 8m to 15m.
+
+Change log:
+  v1.0.0.0 2017-12-02
+    - Initial release
+
+ ]]></en>
+    <fr><![CDATA[
+
+Cela augmente la longueur maximale des coupes faites par une récolteuse de bois de 8m à 15m.
+
+Journal des changements:
+  v1.0.0.0 2017-12-02
+    - Première version
+  
+  ]]></fr>
+  </description>
+  <iconFilename>store.dds</iconFilename>
+  <multiplayer supported="true" />
+  <extraSourceFiles>
+    <sourceFile filename="LongerLogCuts.lua" />
+  </extraSourceFiles>
+</modDesc>
